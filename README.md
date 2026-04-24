@@ -1,3 +1,14 @@
+Nomes:
+Anna Heloisy, 
+Beatriz Abreu Bom, 
+Beatriz Freire, 
+Glauciele Rossi, 
+Heloisa Bragatto, 
+Rodrigo Gabriel, 
+Ryan dos Santos, 
+Sofia Rovaron, 
+Yasmin Costa.
+
 ## Higher-Order Function
 Uma Higher Order Function (Função de Alta Ordem) é uma função que recebe outra função como argumento, ou que retorna outra função como resultado.
 
