@@ -5,3 +5,7 @@ const comDesconto = precos.map(function(preco) {
 });
 
 console.log(comDesconto);
+
+const comDescontoModerno = precos.map(preco => preco * 0.9);
+
+console.log(comDescontoModerno);
